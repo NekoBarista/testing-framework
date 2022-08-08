@@ -1,0 +1,20 @@
+{
+  "name": "testing-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoBarista/testing-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NekoBarista/testing-framework/issues"
+  },
+  "homepage": "https://github.com/NekoBarista/testing-framework#readme",
+  "bin": { "tme": "index.js" }
+}

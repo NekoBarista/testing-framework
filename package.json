@@ -16,5 +16,10 @@
     "url": "https://github.com/NekoBarista/testing-framework/issues"
   },
   "homepage": "https://github.com/NekoBarista/testing-framework#readme",
-  "bin": { "tme": "index.js" }
+  "bin": {
+    "tme": "index.js"
+  },
+  "dependencies": {
+    "jsdom": "^20.0.0"
+  }
 }
